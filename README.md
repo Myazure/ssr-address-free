@@ -1,14 +1,6 @@
 SSR
 ==========================================================================
-![wangzhen](https://avatars1.githubusercontent.com/u/1842578?s=40&v=4)@[wangzhenjjcn](https://github.com/wangzhenjjcn "GitHub") [FaceBook](https://www.facebook.com/wangzhenjjcn "点击查看我的Facebook") 
-
-
-[.NetFramework 4.6.2  >>>59.1 MB<<<](https://github.com/wangzhenjjcn/ssr-address-free/releases/download/V1.0/NDP462-KB3151800-x86-x64-AllOS-ENU.exe "NDP462-KB3151800-x86-x64-AllOS-ENU.exe")    
-[ShadowsocksR-win-4.9.0.7z >>>1.14 MB<<<](https://github.com/wangzhenjjcn/ssr-address-free/releases/download/V1.0/ShadowsocksR-win-4.9.0.7z "ShadowsocksR-win-4.9.0.7z")    
-[vc2017redist_x64.exe >>>14.5 MB<<<](https://github.com/wangzhenjjcn/ssr-address-free/releases/download/V1.0/vc2017redist_x64.exe "vc2017redist_x64.exe")    
-[vc_redist.x64.exe >>>14.6 MB<<<](https://github.com/wangzhenjjcn/ssr-address-free/releases/download/V1.0/vc_redist.x64.exe "vc_redist.x64.exe")    
-
-
+## See Release Page
 
 
 # Require
@@ -43,6 +35,28 @@ https://www.microsoft.com/en-us/download/confirmation.aspx?id=53840
  请自行摸索。
  联系方式？
  发送邮件到客服邮箱 wangzhenjjcn at gmail dot com 申报故障或其他建议。
+ 
+ ##
+ It is forbidden to use free accounts for hacker attacks, BT downloads, spam spam. 
+ ####
+ Q:How to use? 
+ #####
+ A:Please explore it yourself.The customer service does not know how to use it, please do not send an email to ask. 
+ ####
+ Q:Why can't I suddenly use it? 
+ #####
+ A:It should be a well-known irresistible reason. 
+ ####
+ Q:What does this and that mean? 
+ #####
+ A:Please explore it yourself. 
+ ####
+ Q:Contact information? 
+ #####
+ A:Send an email to the customer service email wangzhenjjcn at gmail dot com to report the fault or other suggestions.
+ 
+ 
+ 
  
  
 <h1 align="center"> 免责声明 </h1>
